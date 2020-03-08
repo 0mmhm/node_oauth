@@ -1,6 +1,6 @@
-*.ejs linguist-language=JavaScript
-*.css linguist-language=JavaScript
-*.min.css linguist-language=JavaScript
-*.map linguist-language=JavaScript
-*.css.map linguist-language=JavaScript
-*.min.css.map linguist-language=JavaScript
+*.ejs linguist-language=Javascript
+*.css linguist-language=Javascript
+*.min.css linguist-language=Javascript
+*.map linguist-language=Javascript
+*.css.map linguist-language=Javascript
+*.min.css.map linguist-language=Javascript
